@@ -1,0 +1,6 @@
+Flask
+imutils
+open cv
+Pillow
+scikit-image
+gunicorn
